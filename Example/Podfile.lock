@@ -1,0 +1,23 @@
+PODS:
+  - TrtcIosSimpleManagger (0.0.1):
+    - TXLiteAVSDK_Professional (= 8.3.9884)
+  - TXLiteAVSDK_Professional (8.3.9884)
+
+DEPENDENCIES:
+  - TrtcIosSimpleManagger (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - TXLiteAVSDK_Professional
+
+EXTERNAL SOURCES:
+  TrtcIosSimpleManagger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TrtcIosSimpleManagger: fb2fdb90d485ba8d62c1e0f08a306f55ab4d9762
+  TXLiteAVSDK_Professional: b30e3f46e709eba26d92b2dca5c2003fb47e6598
+
+PODFILE CHECKSUM: 840707ab2cd3706fd464e4f64b8130209efe4d82
+
+COCOAPODS: 1.10.1

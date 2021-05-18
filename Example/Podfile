@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TrtcIosSimpleManagger_Example' do
+  pod 'TrtcIosSimpleManagger', :path => '../'
+
+  target 'TrtcIosSimpleManagger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
